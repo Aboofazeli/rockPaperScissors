@@ -1,1 +1,1 @@
-# rockPaperScissors
+# Rock Paper Scissor in JavaScript
